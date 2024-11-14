@@ -38,6 +38,8 @@ function App() {
         scholarshipDetails,
       };
       console.log("Dados enviados:", allData);
+      
+      setCurrentStep(1);
     }
   };
 
